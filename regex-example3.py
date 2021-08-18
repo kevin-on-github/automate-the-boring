@@ -1,5 +1,8 @@
 import re
 
+
+# This script is essentially a find and replace using regular expressio strings.
+
 message = 'Agent Alice gave the secret formula to Agent Bob.'
 #namesRegex = re.compile(r'Agent \w+')
 namesRegex = re.compile(r'Agent (\w)(\w*)') # Takes the raw string beginning with Agent breaks the name into 2 groups
