@@ -12,18 +12,18 @@ S.No.,Verbs,Nouns,Adjectives
 11,avail,availability,available
 12,identify,identification,identifiable
 13,absented,absence,absent
-14,change,change,"changed, changeable"
+14,change,change,changeable
 15,flutter,fluttering,fluttery
 16,fly,flight,flyable
 17,calculate,calculation,calculated
-18,migrate,"migration, migrant",migratory
+18,migrate,migration,migratory
 19,expose,exposure,exposed
 20,develop,development,developed
 21,pursue,pursuit,pursued
-22,human,humanitarian,humanly
-23,die,"dead, death",deadly
+22,humanize,human,humanly
+23,die, dead ,deadly
 24,clog,clogging,clogged
-25,jam,"jam, jamming",jammed
+25,jamming, jam,jammed
 26,erupt,eruption,eruptive
 27,eat,edibles,edible
 28,emptied,emptiness,empty
@@ -37,7 +37,7 @@ S.No.,Verbs,Nouns,Adjectives
 36,retain,retainment,retained
 37,acquire,acuisition,acquired
 38,distinguish,distinguishment,distinguishable
-39,require,"requisite, requisition",required
+39,require, requisition, required
 40,charged,charge,chargeable
 41,reverse,reversal,reversed
 42,assign,assignment,assigned
@@ -46,17 +46,17 @@ S.No.,Verbs,Nouns,Adjectives
 45,govern,government,governmental
 46,harmonize,harmony,harmonial
 47,grieved,grief,grieving
-48,publicize,"public, publicity",public
+48,publicize, publicity, public
 49,organize,organization,organized
 50,lose,loss,lost
 51,understand,understanding,understandable
-52,reside,"resident, residence",residential
+52,reside, resident, residential
 53,monetize,money,monetary
 54,survive,survival,surviving
-55,perform,"performance, performer",performing
-56,move, mobile, "moving"
+55,perform, performer,performing
+56,move, mobile, moving
 57,articulate,articulation,articulated
-58,live,life, "alive"
+58,live,life, alive
 59,apply,application,applicable
 60,imagine,imagination,imaginary
 61,valued,value,valuable
