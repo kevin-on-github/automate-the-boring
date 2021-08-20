@@ -20,6 +20,8 @@ def dblookup(Supplied_name):
     print(f"{'That is a total of '} {(locale.currency(Accumulate, grouping = True)) : >25}")
 
 dblookup('Company AAA')
+dblookup('BBB Company')
+dblookup('CC Company CC')
 
 
 
