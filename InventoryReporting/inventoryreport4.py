@@ -58,7 +58,7 @@ class DbPrice(DbInit):
 
 
 DbInventory('Inventory', 'ASC', '10')
-DbPrice('Price', 'DESC', '15')
+DbPrice('Price', 'DESC', '5')
 DbInventory('SerialNo', 'DESC', '10')
 DbTotalCost('TotalCost', 'DESC', '10')
 

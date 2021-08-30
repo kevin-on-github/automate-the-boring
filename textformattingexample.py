@@ -1,4 +1,4 @@
-names = ['Raj', 'Shivam', 'Shreeya', 'Kartik']
+names = ['Bill', 'Jill', 'Kevin', 'Tim']
 marks = [7, 9, 8, 5]
 div = ['A', 'A', 'C', 'B']
 id = [21, 52, 27, 38]
