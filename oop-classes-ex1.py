@@ -19,11 +19,12 @@ class Person:
 class Math:
 
     @staticmethod #static class methods that do not change anything, but can be called to do a function.
-    def add5(x):
-        return x + 5
+    def add_nums(x, y):
+        return x + y
 
 
 p1 = Person('Tim')
 p2 = Person('Kevin')
 print(Person.output_num_of_people())
-print(Math.add5(3))
+
+print(Math.add_nums(3, 5))
