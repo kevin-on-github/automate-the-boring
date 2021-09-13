@@ -1,6 +1,6 @@
 import sys
 
 print(type(sys.argv))
-print('The CLI args are: ')
-for i in sys.argv:
-    print(i)
+print(f'The CLI args are: {sys.argv[1:]}')
+# for i in sys.argv:
+#    print(i)

@@ -6,3 +6,91 @@ Traceback (most recent call last):
   File "/home/kevin/github/automate-the-boring/raise-exception.py.py", line 5, in <module>
     raise Exception('This is an error message.')
 Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
+Traceback (most recent call last):
+  File "C:\Users\kevin\Documents\github\automate-the-boring\raise-exception.py", line 6, in <module>
+    raise Exception('This is an error message.')
+Exception: This is an error message.
